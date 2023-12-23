@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+emoji==2.5.1
+Pillow==10.1.0
+Werkzeug==2.2.2
+# Environment variables
+python-dotenv==1.0.0
+
